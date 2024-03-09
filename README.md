@@ -22,6 +22,7 @@ Current implementation follows a few key papers:
 $ pip3 install --upgrade pip
 $ pip3 install jupyter
 $ jupyter notebook --port 9999
+$ pip3 install torch matplotlib
 ```
 
 ## License
