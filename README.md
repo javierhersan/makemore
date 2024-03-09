@@ -1,6 +1,6 @@
 # makemore
 
-**makemore** is a rewrite of Andrej Karpathy's makemore [makemore](https://github.com/karpathy/makemore) repository with some improvements.
+**makemore** is a rewrite of Andrej Karpathy's [makemore](https://github.com/karpathy/makemore) repository with some improvements.
 
 **makemore** takes text as input, and generates more text as output. Under the hood, it is an autoregressive character-level language model, with a wide choice of models from bigrams all the way to a Transformers. For example, we can feed it a database of names, and makemore will generate cool baby name ideas that all sound name-like, but are not already existing names. Or if we feed it a database of company names then we can generate new ideas for a name of a company. Or we can just feed it valid scrabble words and generate english-like babble.
 
